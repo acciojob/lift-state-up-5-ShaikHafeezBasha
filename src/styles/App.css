@@ -1,1 +1,6 @@
-
+input{
+    margin:10px;
+}
+input:focus{
+    border-color:dodgerblue;
+}
